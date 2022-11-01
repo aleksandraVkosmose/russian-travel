@@ -18,3 +18,5 @@
 1. Размещение сайта в интернете.
 2. Подключение JS;
 
+Ссылка на проект: https://aleksandravkosmose.github.io/russian-travel/index.html
+
