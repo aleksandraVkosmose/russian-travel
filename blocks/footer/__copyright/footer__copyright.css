@@ -7,9 +7,9 @@
 }
 
 @media screen and (max-width:767px) {
-    .footer__copyright{
-      line-height: 1;
-      text-align: left;
-      margin: 0;
-    }
+  .footer__copyright{
+    line-height: 1;
+    text-align: left;
+    margin: 0;
+  }
 }

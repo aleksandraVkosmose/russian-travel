@@ -9,7 +9,7 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .place__paragraph {
+  .place__paragraph{
     font-size: 18px;
     line-height: 1.61;
     padding-bottom: 27px;
@@ -17,7 +17,7 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
-  .place__paragraph {
+  .place__paragraph{
     font-size: 16px;
     line-height: 1.625;
     padding-bottom: 25px;
@@ -25,11 +25,11 @@
 }
 
 @media screen and (max-width: 767px) {
- .place__paragraph {
+ .place__paragraph{
     max-width: 288px;
     margin: auto;
     font-size: 16px;
     line-height: 1.625;
     padding-bottom: 25px;
-    }
   }
+}
